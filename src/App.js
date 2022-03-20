@@ -10,10 +10,17 @@ function App() {
     console.log(response.data.message);
   })
   return (
+    <>
+    <div className='warning'>
+          <p>– Advertorial –</p>
+ <p> We are getting an unprecedented number of new users. 20/03/2022</p>
+        </div>
+    
     <div className="App">
      <Header/>
      <Card/>
     </div>
+    </>
   );
 }
 
