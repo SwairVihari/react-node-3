@@ -7,9 +7,9 @@ const Header = () => {
     <>
 
     <div className={Styles.header}>
-        <div className={Styles.imgContainer}>
+        {/* <div className={Styles.imgContainer}>
             <img className={Styles.img} src={bg}/>
-        </div>
+        </div> */}
 
         <h1 className={Styles.headerText}>
         Trade bitcoin and other cryptocurrencies and earn real profits in the following 24 hours

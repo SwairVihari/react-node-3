@@ -105,12 +105,12 @@ const FormModal = () => {
   <Button type='submit'  className={Styles.Button}> Solicitar información</Button>
 </Form>
 
-<div className={Styles.FormHeader}>
+{/* <div className={Styles.FormHeader}>
     
-</div>
+</div> */}
 
 
-    </>
+  </>
   )
 }
 

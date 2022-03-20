@@ -20,3 +20,15 @@
     padding: 0;
 }
 
+
+@media screen and (max-width:900px) {
+    .VideoContainer{
+        height: 250px;
+       min-height: 0;
+    }
+
+    .Container{
+        width: 90% !important;
+        margin: 20px auto;
+    }
+}
